@@ -22,6 +22,7 @@
         <dependency id="bblanchon.PDFiumV8.iOS" version="$version$" />
         <dependency id="bblanchon.PDFiumV8.Linux" version="$version$" />
         <dependency id="bblanchon.PDFiumV8.macOS" version="$version$" />
+        <dependency id="bblanchon.PDFiumV8.MacCatalyst" version="$version$" />
         <dependency id="bblanchon.PDFiumV8.Win32" version="$version$" />
       </group>
     </dependencies>
